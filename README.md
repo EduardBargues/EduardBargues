@@ -59,18 +59,12 @@ Let me show my journey about the things I've learned 😊.
 - Technologies: <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 
 ## My Github stats
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=EduardBargues&show_icons=true">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=EduardBargues&hide=css,java,html">
-</p>
-
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EduardBargues&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Eduard's github stats"/>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardBargues&bg_color=071A2C&text_color=FFFFFF" alt="Eduard's top langs"/>
 </p>
-
 
 ## Music for programming? 🎧
 
