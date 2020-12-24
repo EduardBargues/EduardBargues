@@ -24,7 +24,7 @@ Always try to give my best and making this world a better place to be :). I was 
 Let me show my journey about the things I've learned 😊.
 
 ### On-going courses
-
+- **GOAL 2021**: Get AWS AWS Certified Developer Associate
 - [AWS Certified Developer - Associate 2020](https://www.udemy.com/share/101WvAAkofcFxSQ34=/)
 - [Practical beginners course to Serverless Applications](https://www.udemy.com/share/101rqGAkofcFxSQ34=/)
 - [AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps)](https://www.udemy.com/share/101KLOAkofcFxSQ34=/)
