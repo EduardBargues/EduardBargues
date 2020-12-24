@@ -22,9 +22,36 @@ Always try to give my best and making this world a better place to be :). I was 
 
 ## Learning path:
 
-## Soft-skills
+Let me show my journey about the things I've learned 😊.
 
-## Hard-skills: 
+### On-going courses
+
+- [AWS Certified Developer - Associate 2020](https://www.udemy.com/share/101WvAAkofcFxSQ34=/)
+- [Practical beginners course to Serverless Applications](https://www.udemy.com/share/101rqGAkofcFxSQ34=/)
+- [AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps)](https://www.udemy.com/share/101KLOAkofcFxSQ34=/)
+- [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/course/nodejs-the-complete-guide/)
+- [*NEW* AWS Certified Developer Associate Practice Exams 2020](https://www.udemy.com/course/new-aws-certified-developer-associate-practice-exams/)
+- [Practice Exams | AWS Certified Developer Associate 2021](https://www.udemy.com/course/aws-certified-developer-associate-practice-tests-dva-c01/)
+
+### Finished courses
+
+- [Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery/)
+- [Design Patterns in C# and .NET](https://www.udemy.com/course/design-patterns-csharp-dotnet/)
+- [Entity Framework in Depth: The Complete Guide](https://www.udemy.com/course/entity-framework-tutorial/)
+- [Node.js: The Complete Guide to Build RESTful APIs (2018)](https://www.udemy.com/course/nodejs-master-class/)
+- [AZ-204 Developing for Microsoft Azure Exam Prep](https://www.udemy.com/course/70532-azure/)
+- [Windows Presentation Foundation Masterclass](https://www.udemy.com/course/windows-presentation-foundation-masterclass/)
+- [Learn Parallel Programming with C# and .NET](https://www.udemy.com/course/parallel-dotnet/)
+- [Dependency Injection in C# and .NET with the Autofac Library](https://www.udemy.com/course/di-ioc-dotnet/)
+- [Xamarin Forms: Build Native Cross-platform Apps with C#](https://www.udemy.com/course/xamarin-forms-course/)
+- [Master .NET and C# Unit Testing with NUnit and Moq](https://www.udemy.com/course/nunit-moq/)
+- [C# Developers: Double Your Coding Speed with Visual Studio](https://www.udemy.com/course/visual-studio-tips-tricks/)
+- [Mastering LINQ with C# and .NET](https://www.udemy.com/course/linqlinq/)
+- [Statistics for Business Analytics and Data Science A-Z™](https://www.udemy.com/course/data-statistics/)
+
+## Skills
+
+- Soft-skills: Adaptability, Creativity, Self-Criticism, Communication, Accountability, Teamwork, Empathy, Patience.
 - Languages: <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/><img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/><img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 - Frameworks: <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
 - Version control: <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
@@ -35,6 +62,6 @@ Always try to give my best and making this world a better place to be :). I was 
 
 ![Eduard's github stats](https://github-readme-stats.vercel.app/api?username=EduardBargues&hide=["issues"]&show_icons=true)
 
-## What am I listening right now? 🎧
+## Music for programming? 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/eduardbargues)
