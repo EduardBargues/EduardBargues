@@ -3,8 +3,7 @@
 - 🔭 I’m currently working on serverless.
 - 🌱 I’m currently learning node.js, aws, serverless, 
 - 👯 I’m looking to collaborate on open-source projects and making the world a better place.
-- 🤔 I’m looking for help with front-end development
-- 💬 Ask me about back-end development, devOps, git, c#, node.js, continuous-integration, continuous-delivery and continuous deployment
+- 💬 Ask me about back-end development, devOps, git, c#, node.js, continuous-integration, continuous-delivery, continuous deployment and serverless.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eduardbargues/) or [Twitter](https://twitter.com/eduardbargues)
 - ⚡ Fun fact: Living with my girlfriend and 3 other cats :D.
 
