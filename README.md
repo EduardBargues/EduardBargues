@@ -10,19 +10,19 @@
 
 ## Volunteer, teacher and cloud-developer
 
-## Experience:
+Always try to give my best and making this world a better place to be :). I was lucky enough to find [https://migracode.openculturalcenter.org/](Migracode) and being able to merge my programming passion and my will to help others. Most of my time I spend it learning new things. Currently, I'm working as a Cloud-engineer at [https://www.ohpen.com/](Ohpen) where I keep pushing my AWS+Serverless knowledge every day.
 
-### Migracode 
-
-### Ohpen
-
-### Woffu
-
-### Fluendo
-
-### Aquiles Solutions
+## People/Companies I worked with
+- [https://migracode.openculturalcenter.org/](Migracode): Teaching refugees to become full-stack developers. Stack: Git, Javascript, Node.js and PostgreSQL. I also take care of a self-developed soft-skills curriculum about emotional intelligence, team-work and working under pressure.
+- [https://www.ohpen.com/](Ohpen): Designing and implementing serverless systems for finance institutions in AWS. Owning the whole process. From CI/CD pipelines, deployments, monitoring and bug resolution. Mainly using AWS, Serverless, DynamoDB, RDS, Aurora, .Net, Node.js, Powershell and Python.
+- [https://www.woffu.com/en/](Woffu): Designing and mantaining our web and mobile application as a backend developer. Mainly working with all the .Net stack (Azure, C\#, SQL and Table storage)
+- [https://fluendo.com/es/](Fluendo): Designing desktop, mobile and web applications for the e-sports ecosystem. Mainly focused on Microsoft technologies such as C\# and  Azure with a back-end development role.
+- [http://aquilessolutions.com/](Aquiles Solutions): Designing solutions for our clients. Main tasks: attending client meetings, implementing algorithms, designing applications and managing SQL databases.
+- [http://www.guillaumeverdier.com/en/](Guillaume Verdier) and [https://www.bmuyl.com/](Benjamin Muyl): Developing a fluid-structure interaction program with Finite-Element method.
 
 ## Learning path:
+
+## Soft-skills
 
 ## Hard-skills: 
 - Languages: <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/><img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/><img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
