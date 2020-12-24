@@ -10,15 +10,15 @@
 
 ## Volunteer, teacher and cloud-developer
 
-Always try to give my best and making this world a better place to be :). I was lucky enough to find [https://migracode.openculturalcenter.org/](Migracode) and being able to merge my programming passion and my will to help others. Most of my time I spend it learning new things. Currently, I'm working as a Cloud-engineer at [https://www.ohpen.com/](Ohpen) where I keep pushing my AWS+Serverless knowledge every day.
+Always try to give my best and making this world a better place to be :). I was lucky enough to find [Migracode](https://migracode.openculturalcenter.org/) and being able to merge my programming passion and my will to help others. Most of my time I spend it learning new things. Currently, I'm working as a Cloud-engineer at [Ohpen](https://www.ohpen.com/) where I keep pushing my AWS+Serverless knowledge every day.
 
 ## People/Companies I worked with
-- [https://migracode.openculturalcenter.org/](Migracode): Teaching refugees to become full-stack developers. Stack: Git, Javascript, Node.js and PostgreSQL. I also take care of a self-developed soft-skills curriculum about emotional intelligence, team-work and working under pressure.
-- [https://www.ohpen.com/](Ohpen): Designing and implementing serverless systems for finance institutions in AWS. Owning the whole process. From CI/CD pipelines, deployments, monitoring and bug resolution. Mainly using AWS, Serverless, DynamoDB, RDS, Aurora, .Net, Node.js, Powershell and Python.
-- [https://www.woffu.com/en/](Woffu): Designing and mantaining our web and mobile application as a backend developer. Mainly working with all the .Net stack (Azure, C\#, SQL and Table storage)
-- [https://fluendo.com/es/](Fluendo): Designing desktop, mobile and web applications for the e-sports ecosystem. Mainly focused on Microsoft technologies such as C\# and  Azure with a back-end development role.
-- [http://aquilessolutions.com/](Aquiles Solutions): Designing solutions for our clients. Main tasks: attending client meetings, implementing algorithms, designing applications and managing SQL databases.
-- [http://www.guillaumeverdier.com/en/](Guillaume Verdier) and [https://www.bmuyl.com/](Benjamin Muyl): Developing a fluid-structure interaction program with Finite-Element method.
+- [Migracode](https://migracode.openculturalcenter.org/): Teaching refugees to become full-stack developers. Stack: Git, Javascript, Node.js and PostgreSQL. I also take care of a self-developed soft-skills curriculum about emotional intelligence, team-work and working under pressure.
+- [Ohpen](https://www.ohpen.com/): Designing and implementing serverless systems for finance institutions in AWS. Owning the whole process. From CI/CD pipelines, deployments, monitoring and bug resolution. Mainly using AWS, Serverless, DynamoDB, RDS, Aurora, .Net, Node.js, Powershell and Python.
+- [Woffu](https://www.woffu.com/en/): Designing and mantaining our web and mobile application as a backend developer. Mainly working with all the .Net stack (Azure, C\#, SQL and Table storage)
+- [Fluendo](https://fluendo.com/es/): Designing desktop, mobile and web applications for the e-sports ecosystem. Mainly focused on Microsoft technologies such as C\# and  Azure with a back-end development role.
+- [Aquiles Solutions](http://aquilessolutions.com/): Designing solutions for our clients. Main tasks: attending client meetings, implementing algorithms, designing applications and managing SQL databases.
+- [Guillaume Verdier](http://www.guillaumeverdier.com/en/) and [Benjamin Muyl](https://www.bmuyl.com/): Developing a fluid-structure interaction program with Finite-Element method.
 
 ## Learning path:
 
