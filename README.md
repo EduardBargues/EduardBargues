@@ -60,8 +60,8 @@ Let me show my journey about the things I've learned 😊.
 
 ## GitHub stats
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=EduardBargues&show_icons=true&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=EduardBargues">
+  <img src = "https://github-readme-stats.vercel.app/api?username=EduardBargues&show_icons=true">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=EduardBargues&hide=css,java,html">
 </p>
 ## Music for programming? 🎧
 
