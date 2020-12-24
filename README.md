@@ -58,9 +58,11 @@ Let me show my journey about the things I've learned 😊.
 - Databases: <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/><img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 - Technologies: <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 
-
-![Eduard's github stats](https://github-readme-stats.vercel.app/api?username=EduardBargues&hide=["issues"]&show_icons=true)
-
+## GitHub stats
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=EduardBargues&show_icons=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=EduardBargues">
+</p>
 ## Music for programming? 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/eduardbargues)
