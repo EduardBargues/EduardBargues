@@ -19,8 +19,11 @@ Always try to give my best and making this world a better place to be :). I was 
 - [Aquiles Solutions](http://aquilessolutions.com/): Designing solutions for our clients. Main tasks: attending client meetings, implementing algorithms, designing applications and managing SQL databases.
 - [Guillaume Verdier](http://www.guillaumeverdier.com/en/) and [Benjamin Muyl](https://www.bmuyl.com/): Developing a fluid-structure interaction program with Finite-Element method.
 
-## Learning path:
+## Experiences I share about
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
+## Learning path:
 Let me show my journey about the things I've learned 😊.
 
 ### On-going courses
