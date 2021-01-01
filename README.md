@@ -21,6 +21,7 @@ Always try to give my best and making this world a better place to be :). I was 
 
 ## Experiences I share about
 <!-- BLOG-POST-LIST:START -->
+- [Find the hidden bug with Git-Bisect](https://medium.com/@eduardbargues/find-the-hidden-bug-with-git-bisect-11ffa965fee3?source=rss-97fd5aab88d2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Learning path:
