@@ -72,9 +72,6 @@ Let me show my journey about the things I've learned 😊.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardBargues&bg_color=071A2C&text_color=FFFFFF" alt="Eduard's top langs"/>
 </p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ## Music for programming? 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/eduardbargues)
