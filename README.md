@@ -21,6 +21,7 @@ Always try to give my best and making this world a better place to be :). I was 
 
 ## Experiences I share about
 <!-- BLOG-POST-LIST:START -->
+- [Don’t test your implementation](https://medium.com/@eduardbargues/dont-test-your-implementation-e7bb4518728d?source=rss-97fd5aab88d2------2)
 - [Take full advantage of your .gitconfig file](https://medium.com/@eduardbargues/take-full-advantage-of-your-gitconfig-file-b00bde71c9d0?source=rss-97fd5aab88d2------2)
 - [Top 10 most used GIT commands I use at work](https://medium.com/@eduardbargues/top-10-most-used-git-commands-i-use-at-work-f58c56db4a16?source=rss-97fd5aab88d2------2)
 - [Find the hidden bug with Git-Bisect](https://medium.com/@eduardbargues/find-the-hidden-bug-with-git-bisect-11ffa965fee3?source=rss-97fd5aab88d2------2)
