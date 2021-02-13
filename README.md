@@ -21,11 +21,11 @@ Always try to give my best and making this world a better place to be :). I was 
 
 ## Experiences I share about
 <!-- BLOG-POST-LIST:START -->
+- [Fluent validations. A hands-on introduction.](https://medium.com/@eduardbargues/fluent-validations-a-hands-on-introduction-87a0ebc6b815?source=rss-97fd5aab88d2------2)
 - [Branch strategies](https://medium.com/@eduardbargues/branch-strategies-51750c59326c?source=rss-97fd5aab88d2------2)
 - [Automate your DevOps flow with conventional-commits](https://medium.com/@eduardbargues/automate-your-devops-flow-with-conventional-commits-9e2b5735d054?source=rss-97fd5aab88d2------2)
 - [Don’t test your implementation](https://medium.com/@eduardbargues/dont-test-your-implementation-e7bb4518728d?source=rss-97fd5aab88d2------2)
 - [Take full advantage of your .gitconfig file](https://medium.com/@eduardbargues/take-full-advantage-of-your-gitconfig-file-b00bde71c9d0?source=rss-97fd5aab88d2------2)
-- [Top 10 most used GIT commands I use at work](https://medium.com/@eduardbargues/top-10-most-used-git-commands-i-use-at-work-f58c56db4a16?source=rss-97fd5aab88d2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Learning path:
