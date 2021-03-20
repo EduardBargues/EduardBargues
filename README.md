@@ -21,11 +21,11 @@ Always try to give my best and making this world a better place to be :). I was 
 
 ## Experiences I share about
 <!-- BLOG-POST-LIST:START -->
-- [Feature flag & toggle](https://medium.com/@eduardbargues/feature-flag-toggle-1f8e5cdd7c6?source=rss-97fd5aab88d2------2)
-- [Bad-request vs Unprocessable-entity](https://medium.com/@eduardbargues/bad-request-vs-unprocessable-entity-ef8a29421449?source=rss-97fd5aab88d2------2)
-- [Fluent validations. A hands-on introduction.](https://medium.com/@eduardbargues/fluent-validations-a-hands-on-introduction-87a0ebc6b815?source=rss-97fd5aab88d2------2)
-- [Branch strategies](https://medium.com/@eduardbargues/branch-strategies-51750c59326c?source=rss-97fd5aab88d2------2)
-- [Automate your DevOps flow with conventional-commits](https://medium.com/@eduardbargues/automate-your-devops-flow-with-conventional-commits-9e2b5735d054?source=rss-97fd5aab88d2------2)
+- [Feature flag & toggle](https://eduardbargues.medium.com/feature-flag-toggle-1f8e5cdd7c6?source=rss-97fd5aab88d2------2)
+- [Bad-request vs Unprocessable-entity](https://eduardbargues.medium.com/bad-request-vs-unprocessable-entity-ef8a29421449?source=rss-97fd5aab88d2------2)
+- [Fluent validations. A hands-on introduction.](https://eduardbargues.medium.com/fluent-validations-a-hands-on-introduction-87a0ebc6b815?source=rss-97fd5aab88d2------2)
+- [Branch strategies](https://eduardbargues.medium.com/branch-strategies-51750c59326c?source=rss-97fd5aab88d2------2)
+- [Automate your DevOps flow with conventional-commits](https://eduardbargues.medium.com/automate-your-devops-flow-with-conventional-commits-9e2b5735d054?source=rss-97fd5aab88d2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Learning path:
