@@ -32,7 +32,8 @@ Always try to give my best and making this world a better place to be :). I was 
 Let me show my journey about the things I've learned 😊.
 
 ### On-going courses
-- **GOAL 2021**: Get AWS AWS Certified Developer Associate
+- **GOAL 2021**: Get AWS AWS Certified Developer Associate :heavy_check_mark:
+- **GOAL 2021**: Get Terraform Associate Certification 
 - [Practical beginners course to Serverless Applications](https://www.udemy.com/share/101rqGAkofcFxSQ34=/)
 - [AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps)](https://www.udemy.com/share/101KLOAkofcFxSQ34=/)
 - [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/course/nodejs-the-complete-guide/)
