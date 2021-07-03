@@ -33,15 +33,15 @@ Let me show my journey about the things I've learned 😊.
 
 ### On-going courses
 - **GOAL 2021**: Get AWS AWS Certified Developer Associate
-- [AWS Certified Developer - Associate 2020](https://www.udemy.com/share/101WvAAkofcFxSQ34=/)
 - [Practical beginners course to Serverless Applications](https://www.udemy.com/share/101rqGAkofcFxSQ34=/)
 - [AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps)](https://www.udemy.com/share/101KLOAkofcFxSQ34=/)
 - [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/course/nodejs-the-complete-guide/)
-- [*NEW* AWS Certified Developer Associate Practice Exams 2020](https://www.udemy.com/course/new-aws-certified-developer-associate-practice-exams/)
-- [Practice Exams | AWS Certified Developer Associate 2021](https://www.udemy.com/course/aws-certified-developer-associate-practice-tests-dva-c01/)
 
 ### Finished courses
 
+- [*NEW* AWS Certified Developer Associate Practice Exams 2020](https://www.udemy.com/course/new-aws-certified-developer-associate-practice-exams/)
+- [Practice Exams | AWS Certified Developer Associate 2021](https://www.udemy.com/course/aws-certified-developer-associate-practice-tests-dva-c01/)
+- [AWS Certified Developer - Associate 2020](https://www.udemy.com/share/101WvAAkofcFxSQ34=/)
 - [Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery/)
 - [Design Patterns in C# and .NET](https://www.udemy.com/course/design-patterns-csharp-dotnet/)
 - [Entity Framework in Depth: The Complete Guide](https://www.udemy.com/course/entity-framework-tutorial/)
