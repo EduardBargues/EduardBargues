@@ -6,6 +6,7 @@
 - 💬 Ask me about back-end development, devOps, git, c#, node.js, continuous-integration, continuous-delivery, continuous deployment and serverless.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eduardbargues/) or [Twitter](https://twitter.com/eduardbargues)
 - ⚡ Fun fact: Living with my girlfriend and 3 other cats :D.
+- 🤴 Repositories I feel proud about: [CICD-template](https://github.com/EduardBargues/cicd-template)
 
 ## Volunteer, teacher and cloud-developer
 
