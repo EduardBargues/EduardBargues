@@ -27,6 +27,11 @@ Always try to give my best and making this world a better place to be :). I was 
 - [Feature flag & toggle](https://eduardbargues.medium.com/feature-flag-toggle-1f8e5cdd7c6?source=rss-97fd5aab88d2------2)
 - [Bad-request vs Unprocessable-entity](https://eduardbargues.medium.com/bad-request-vs-unprocessable-entity-ef8a29421449?source=rss-97fd5aab88d2------2)
 - [Fluent validations. A hands-on introduction.](https://eduardbargues.medium.com/fluent-validations-a-hands-on-introduction-87a0ebc6b815?source=rss-97fd5aab88d2------2)
+- [Branch strategies](https://eduardbargues.medium.com/branch-strategies-51750c59326c?source=rss-97fd5aab88d2------2)
+- [Automate your DevOps flow with conventional-commits](https://eduardbargues.medium.com/automate-your-devops-flow-with-conventional-commits-9e2b5735d054?source=rss-97fd5aab88d2------2)
+- [Don’t test your implementation](https://eduardbargues.medium.com/dont-test-your-implementation-e7bb4518728d?source=rss-97fd5aab88d2------2)
+- [Take full advantage of your .gitconfig file](https://eduardbargues.medium.com/take-full-advantage-of-your-gitconfig-file-b00bde71c9d0?source=rss-97fd5aab88d2------2)
+- [Top 10 most used GIT commands I use at work](https://eduardbargues.medium.com/top-10-most-used-git-commands-i-use-at-work-f58c56db4a16?source=rss-97fd5aab88d2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Learning path:
