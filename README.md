@@ -27,11 +27,6 @@ Always try to give my best and making this world a better place to be :). I was 
 - [Feature flag & toggle](https://eduardbargues.medium.com/feature-flag-toggle-1f8e5cdd7c6?source=rss-97fd5aab88d2------2)
 - [Bad-request vs Unprocessable-entity](https://eduardbargues.medium.com/bad-request-vs-unprocessable-entity-ef8a29421449?source=rss-97fd5aab88d2------2)
 - [Fluent validations. A hands-on introduction.](https://eduardbargues.medium.com/fluent-validations-a-hands-on-introduction-87a0ebc6b815?source=rss-97fd5aab88d2------2)
-- [Branching strategies](https://eduardbargues.medium.com/branch-strategies-51750c59326c)
-- [Automate your DevOps flow with conventional-commits](https://eduardbargues.medium.com/automate-your-devops-flow-with-conventional-commits-9e2b5735d054)
-- [Don't test your implementation](https://eduardbargues.medium.com/dont-test-your-implementation-e7bb4518728d)
-- [Take full advantage of your .gitconfig file](https://eduardbargues.medium.com/take-full-advantage-of-your-gitconfig-file-b00bde71c9d0)
-- [Find the hidden bug with Git-Bisect](https://eduardbargues.medium.com/find-the-hidden-bug-with-git-bisect-11ffa965fee3)
 <!-- BLOG-POST-LIST:END -->
 
 ## Learning path:
