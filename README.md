@@ -22,6 +22,7 @@ Always try to give my best and making this world a better place to be :). I was 
 
 ## Experiences I share about
 <!-- BLOG-POST-LIST:START -->
+- [Idempotency 102: serverless enters the scene](https://eduardbargues.medium.com/idempotency-102-serverless-enters-the-scene-4ea1709b41af?source=rss-97fd5aab88d2------2)
 - [Idempotency 101](https://eduardbargues.medium.com/idempotency-101-894434bcbe02?source=rss-97fd5aab88d2------2)
 - [Serverless performance battle](https://eduardbargues.medium.com/serverless-performance-battle-5ada0e879fe9?source=rss-97fd5aab88d2------2)
 - [Unit, Component, Integration, E2E, and Performance testing](https://eduardbargues.medium.com/unit-component-integration-e2e-and-performance-testing-2ecf0ef6b68b?source=rss-97fd5aab88d2------2)
@@ -31,7 +32,6 @@ Always try to give my best and making this world a better place to be :). I was 
 - [Fluent validations. A hands-on introduction.](https://eduardbargues.medium.com/fluent-validations-a-hands-on-introduction-87a0ebc6b815?source=rss-97fd5aab88d2------2)
 - [Branch strategies](https://eduardbargues.medium.com/branch-strategies-51750c59326c?source=rss-97fd5aab88d2------2)
 - [Automate your DevOps flow with conventional-commits](https://eduardbargues.medium.com/automate-your-devops-flow-with-conventional-commits-9e2b5735d054?source=rss-97fd5aab88d2------2)
-- [Don’t test your implementation](https://eduardbargues.medium.com/dont-test-your-implementation-e7bb4518728d?source=rss-97fd5aab88d2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Learning path:
