@@ -1,22 +1,22 @@
 # Hi there, I'm Eduard Bargués - aka LuckyEdu 👋
 
 - 🔭 I’m currently working on serverless.
-- 🌱 I’m currently learning node.js, aws, serverless, 
+- 🌱 I’m currently learning python, aws, serverless, 
 - 👯 I’m looking to collaborate on open-source projects and making the world a better place.
-- 💬 Ask me about back-end development, devOps, git, c#, node.js, continuous-integration, continuous-delivery, continuous deployment and serverless.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eduardbargues/) or [Twitter](https://twitter.com/eduardbargues)
+- 💬 Ask me about fintech, back-end development, devOps, git, c#, node.js, continuous-integration, continuous-delivery, continuous deployment and serverless.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eduardbargues/) and [Medium](https://eduardbargues.medium.com/)
 - ⚡ Fun fact: Living with my girlfriend and 3 other cats :D.
-- 🤴 Repositories I feel proud about: [CICD-template](https://github.com/EduardBargues/cicd-template)
+- 🤴 Repositories I feel proud about: [CICD-template](https://github.com/EduardBargues/cicd-template) and [Idempotency](https://github.com/EduardBargues/content-Idempotency-102)
 
 ## Volunteer, teacher and cloud-developer
 
 Always try to give my best and making this world a better place to be :). I was lucky enough to find [Migracode](https://migracode.openculturalcenter.org/) and being able to merge my programming passion and my will to help others. Most of my time I spend it learning new things. Currently, I'm working as a Cloud-engineer at [Ohpen](https://www.ohpen.com/) where I keep pushing my AWS+Serverless knowledge every day.
 
 ## People/Companies I worked with
-- [Migracode](https://migracode.openculturalcenter.org/): Teaching refugees to become full-stack developers. Stack: Git, Javascript, Node.js, PostgreSQL, Heroku. I also take care of a self-developed soft-skills curriculum about emotional intelligence, team-work and working under pressure.
+- [Migracode](https://migracode.openculturalcenter.org/): Teaching refugees to become full-stack developers. Stack: Git, Javascript, Node.js, PostgreSQL, Heroku. I also take care of a self-developed soft-skills curriculum about emotional intelligence, team-work, conflict management and working under pressure.
 - [Ohpen](https://www.ohpen.com/): Designing and implementing serverless systems for finance institutions in AWS. Owning the whole process. From CI/CD pipelines, deployments, monitoring and bug resolution. Mainly using AWS, Serverless, DynamoDB, RDS, Aurora, .Net, Node.js, Powershell and Python.
 - [Woffu](https://www.woffu.com/en/): Designing and mantaining our web and mobile application as a backend developer. Mainly working with all the .Net stack (Azure, C\#, SQL and Table storage)
-- [Fluendo](https://fluendo.com/es/): Designing desktop, mobile and web applications for the e-sports ecosystem. Mainly focused on Microsoft technologies such as C\# and  Azure with a back-end development role.
+- [Fluendo](https://fluendo.com/es/): Designing desktop, mobile and web applications for the e-sports ecosystem. Mainly focused on Microsoft technologies such as C\# and Azure with a back-end development role.
 - [Aquiles Solutions](http://aquilessolutions.com/): Designing solutions for our clients. Main tasks: attending client meetings, implementing algorithms, designing applications and managing SQL databases.
 - [Guillaume Verdier](http://www.guillaumeverdier.com/en/) and [Benjamin Muyl](https://www.bmuyl.com/): Developing a fluid-structure interaction program with Finite-Element method.
 
@@ -38,9 +38,9 @@ Always try to give my best and making this world a better place to be :). I was 
 Let me show my journey about the things I've learned 😊.
 
 ### On-going courses
-- **GOAL 2021**: Get AWS Certified Developer Associate :heavy_check_mark:
-- **GOAL 2021**: Get Terraform Associate Certification :heavy_check_mark:
-- **GOAL 2021**: Get AWS Certified Solutions Architect
+- :heavy_check_mark: **GOAL 2021**: Get AWS Certified Developer Associate
+- :heavy_check_mark: **GOAL 2021**: Get Terraform Associate Certification
+- **GOAL 2022**: Get AWS Certified Solutions Architect
 
 ### Finished courses
 
@@ -67,8 +67,9 @@ Let me show my journey about the things I've learned 😊.
 ## Skills
 
 - Soft-skills: Adaptability, Creativity, Self-Criticism, Communication, Accountability, Teamwork, Empathy, Patience.
-- Languages: C#, Node.js, Javascript, Python, R, MarkDown
+- Coding: C#, Node.js, Javascript, Python, R, MarkDown
 - Frameworks: Asp.Net Core, Express.js
+- Iac: terraform, cloudformation
 - Version control: Git, Bitbucket, GitHub
 - Saas: AWS, Azure, Google-Cloud, Heroku
 - Databases: MySQL, SQL-Server, PostgreSQL
